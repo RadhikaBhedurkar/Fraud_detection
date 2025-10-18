@@ -1,17 +1,17 @@
 # Fraud_detection
 
-Fraud Detection Using Python 
+ Creditcard Fraud Detection Using Python 
 
-This project focuses on detecting fraudulent transactions using Python, without relying on machine learning models.
-Instead, it applies rule-based logic, data analysis, and anomaly detection techniques to identify suspicious transactions based on behavior patterns such as unusually high amounts, rapid multiple transactions, location inconsistencies, or account status anomalies.
-The system helps financial institutions or e-commerce platforms flag potentially fraudulent activity in real-time using simple yet effective business rules.
+Credit card fraud is a growing problem in the financial sector. This project implements a Credit Card Fraud Detection system using Python, focusing on identifying suspicious transactions through rules-based logic and anomaly detection. The system flags potentially fraudulent transactions based on transaction amounts, frequency, location, and device usage patterns.
 
-# Objectives
+# Project Objectives
 
-1.Detect fraudulent or suspicious transactions using predefined rules
+1.Detect suspicious or fraudulent credit card transactions
 
-2.Analyze customer transaction patterns (amounts, frequency, locations)
+2.Analyze transaction patterns (amount, time, location, device)
 
-3.Identify anomalies in transaction data
+3.Implement rule-based detection for real-time monitoring
 
-4.Generate fraud alerts and reports
+4.Generate alerts and fraud reports
+
+5.Provide insights through data visualization
