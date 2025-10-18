@@ -1,8 +1,8 @@
 # Fraud_detection
 
- Creditcard Fraud Detection Using Python 
+ Creditcard Fraud Detection 
 
-Credit card fraud is a growing problem in the financial sector. This project implements a Credit Card Fraud Detection system using Python, focusing on identifying suspicious transactions through rules-based logic and anomaly detection. The system flags potentially fraudulent transactions based on transaction amounts, frequency, location, and device usage patterns.
+Credit card fraud is a growing problem in the financial sector. This project implements a Credit Card Fraud Detection system using Python and SQL focusing on identifying suspicious transactions through rules-based logic and anomaly detection. The system flags potentially fraudulent transactions based on transaction amounts, frequency, location, and device usage patterns.
 
 # Project Objectives
 
